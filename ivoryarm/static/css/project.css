@@ -11,3 +11,19 @@
   background-color: #f2dede;
   border-color: #eed3d7;
 }
+
+/*.content {*/
+/*  background-image: url("../images/logo.jpg");*/
+/*  height: 1400px;*/
+/*  width: 1500px;*/
+
+/*}*/
+
+body {
+  background: #1f1c17;
+  color: white;
+}
+nav {
+  background: #1f1c17;
+  color: white;
+}
